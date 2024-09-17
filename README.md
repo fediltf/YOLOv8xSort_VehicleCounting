@@ -2,6 +2,13 @@
 
 This repository provides an intelligent system created using Python-based computer vision techniques for vehicle counting. The project leverages YOLOv8 for accurate vehicle detection and Sort for tracking. By integrating deep learning principles, the system can identify and count vehicles within a specified environment. Development was done using Google Colab.
 
+## Video Demonstration
+
+Here is a demonstration of the vehicle counting system:
+![Yolo_v8_demo](https://github.com/user-attachments/assets/75b7a7c0-3523-4e93-8669-0a65eb48b375)
+
+
+
 ## Table of Contents
 
 - [Features](#features)
