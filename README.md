@@ -7,6 +7,7 @@ This repository provides an intelligent system created using Python-based comput
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
+- - [Contact](#contact)
 
 
 ## Features
@@ -14,6 +15,7 @@ This repository provides an intelligent system created using Python-based comput
 - **Accurate Vehicle Detection:** Utilizes YOLOv8 for precise vehicle detection.
 - **Real-time Tracking:** Employs Sort for tracking vehicles as they move through the environment.
 - **Deep Learning Integration:** Incorporates deep learning techniques for improved detection and counting accuracy.
+- **Google Colab Ready:** Code is optimized for easy execution in Google Colab.
 
 ## Tech Stack
 
@@ -31,8 +33,6 @@ Ensure you have the following installed on your local development environment:
 - pip (Python package installer)
 - Git
 
-### Installation
-
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/vehicle-counting.git
+## Contact
+If you have any questions, feel free to contact me at 
+[![Outlook](https://img.shields.io/badge/-outlook?style=social&logo=minutemailer&logoColor=blue&label=mohamedfedi.letaief%40eniso.u-sousse.tn&color=grey)](mailto:mohamedfedi.letaief@eniso.u-sousse.tn)
