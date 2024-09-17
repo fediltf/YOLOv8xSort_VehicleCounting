@@ -7,7 +7,7 @@ This repository provides an intelligent system created using Python-based comput
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
-- - [Contact](#contact)
+- [Contact](#contact)
 
 
 ## Features
